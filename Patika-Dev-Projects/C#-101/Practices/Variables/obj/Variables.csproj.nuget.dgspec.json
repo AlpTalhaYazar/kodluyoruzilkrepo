@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Console-Programming\\Console-Programming.csproj": {}
+    "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Console-Programming\\Console-Programming.csproj": {
+    "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Console-Programming\\Console-Programming.csproj",
-        "projectName": "Console-Programming",
-        "projectPath": "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Console-Programming\\Console-Programming.csproj",
+        "projectUniqueName": "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Variables\\Variables.csproj",
+        "projectName": "Variables",
+        "projectPath": "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\talha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Console-Programming\\obj\\",
+        "outputPath": "C:\\Users\\talha\\source\\repos\\kodluyoruzilkrepo\\kodluyoruzilkrepo\\Patika-Dev-Projects\\C#-101\\Practices\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
