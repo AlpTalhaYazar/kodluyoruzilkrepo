@@ -1,0 +1,16 @@
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\obj\Debug\net5.0\2.csproj.AssemblyReference.cache
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\obj\Debug\net5.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\obj\Debug\net5.0\2.AssemblyInfoInputs.cache
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\obj\Debug\net5.0\2.AssemblyInfo.cs
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\obj\Debug\net5.0\2.csproj.CoreCompileInputs.cache
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\bin\Debug\net5.0\2.exe
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\bin\Debug\net5.0\2.deps.json
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\bin\Debug\net5.0\2.runtimeconfig.json
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\bin\Debug\net5.0\2.runtimeconfig.dev.json
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\bin\Debug\net5.0\2.dll
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\bin\Debug\net5.0\ref\2.dll
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\bin\Debug\net5.0\2.pdb
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\obj\Debug\net5.0\2.dll
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\obj\Debug\net5.0\ref\2.dll
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\obj\Debug\net5.0\2.pdb
+C:\Users\talha\source\repos\kodluyoruzilkrepo\kodluyoruzilkrepo\Patika-Dev-Projects\C#-101\Homework\Homework1\2\obj\Debug\net5.0\2.genruntimeconfig.cache
